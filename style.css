@@ -1,0 +1,45 @@
+h1,h3{
+    text-align: center;
+}
+
+.box-container{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 2rem;
+    margin: 2.25rem;
+    text-align: center;
+}
+
+.red{
+    background-color: #d95980;
+}
+
+.green{
+    background-color: #63aac0;
+}
+
+.orange{
+    background-color: #f99b45;
+}
+
+.purple{
+    background-color: plum;
+}
+
+.gameFlash{
+    background-color: white;
+}
+
+.userFlash{
+    background-color: green;
+}
+
+.wrongAnswer{
+    background-color: red;
+}
